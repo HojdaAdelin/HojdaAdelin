@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to my GitHub profile
+<p align="center">
+<img src="Adelin.png" width="200" height="200" /> 
+</p>
+  
+___________________________________________________
 
-<!--
-**HojdaAdelin/HojdaAdelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Adelin
+### I'm 15 yo and I'm a high school student 📖
+### Passionate about programming
+### I live in the most beautiful region of Romania, Transylvania 😄
 
-Here are some ideas to get you started:
+___________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language preference
+<img src="c++.png" width="150" height="150" /> <img src="python.png" width="150" height="150" /> <img src="git.png" width="150" height="150" /> 
