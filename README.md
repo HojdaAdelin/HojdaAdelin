@@ -6,7 +6,7 @@
 ___________________________________________________
 
 ### I'm Adelin
-### I'm 15 yo and I'm a high school student🔜 📖
+### I'm 15 yo and 🔜 I'm a high school student 📖
 ### Passionate about programming
 ### I live in the most beautiful region of Romania, Transylvania 😄
 
