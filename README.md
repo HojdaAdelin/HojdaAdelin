@@ -13,4 +13,4 @@ ___________________________________________________
 ___________________________________________________
 
 ## Language preference
-<img src="c++.png" width="100" height="100" /> <img src="python.png" width="100" height="100" /> <img src="git.png" width="100" height="100" /> 
+<img src="c++.png" width="125" height="125" /> <img src="python.png" width="125" height="125" /> <img src="git.png" width="125" height="125" /> 
