@@ -12,5 +12,5 @@ ___________________________________________________
 
 ___________________________________________________
 
-## Language preference
+## Skills
 <img src="c++.png" width="125" height="125" /> <img src="python.png" width="125" height="125" /> <img src="git.png" width="125" height="125" /> 
